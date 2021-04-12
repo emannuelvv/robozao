@@ -1,0 +1,16 @@
+C:\Users\Emannuel\source\repos\Robo\bin\Debug\net5.0\Robo.exe
+C:\Users\Emannuel\source\repos\Robo\bin\Debug\net5.0\Robo.deps.json
+C:\Users\Emannuel\source\repos\Robo\bin\Debug\net5.0\Robo.runtimeconfig.json
+C:\Users\Emannuel\source\repos\Robo\bin\Debug\net5.0\Robo.runtimeconfig.dev.json
+C:\Users\Emannuel\source\repos\Robo\bin\Debug\net5.0\Robo.dll
+C:\Users\Emannuel\source\repos\Robo\bin\Debug\net5.0\ref\Robo.dll
+C:\Users\Emannuel\source\repos\Robo\bin\Debug\net5.0\Robo.pdb
+C:\Users\Emannuel\source\repos\Robo\obj\Debug\net5.0\Robo.csprojAssemblyReference.cache
+C:\Users\Emannuel\source\repos\Robo\obj\Debug\net5.0\Robo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emannuel\source\repos\Robo\obj\Debug\net5.0\Robo.AssemblyInfoInputs.cache
+C:\Users\Emannuel\source\repos\Robo\obj\Debug\net5.0\Robo.AssemblyInfo.cs
+C:\Users\Emannuel\source\repos\Robo\obj\Debug\net5.0\Robo.csproj.CoreCompileInputs.cache
+C:\Users\Emannuel\source\repos\Robo\obj\Debug\net5.0\Robo.dll
+C:\Users\Emannuel\source\repos\Robo\obj\Debug\net5.0\ref\Robo.dll
+C:\Users\Emannuel\source\repos\Robo\obj\Debug\net5.0\Robo.pdb
+C:\Users\Emannuel\source\repos\Robo\obj\Debug\net5.0\Robo.genruntimeconfig.cache
